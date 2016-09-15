@@ -1,0 +1,19 @@
+{
+  "name": "homepage-tiles",
+  "version": "1.0.0",
+  "description": "React/Firebase app to build customized homepage grid of tiles with frequently visited links",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mocon/homepage-tiles.git"
+  },
+  "author": "Myles O'Connor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mocon/homepage-tiles/issues"
+  },
+  "homepage": "https://github.com/mocon/homepage-tiles#readme"
+}
